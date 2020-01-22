@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.01">
-  <programVersion>3.2.3</programVersion>
-  <programRevision>d2d863f</programRevision>
+  <programVersion>3.3.4</programVersion>
+  <programRevision>7684abe</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -746,7 +746,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>dije</text>
+              <text>dje</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1000,7 +1000,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>ća</text>
+              <text>ča</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>

@@ -143,6 +143,7 @@
           <controller ctrl="32" value="0"/>
           <program value="0"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -197,6 +198,7 @@
           <controller ctrl="32" value="0"/>
           <program value="0"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -251,6 +253,7 @@
           <controller ctrl="32" value="0"/>
           <program value="0"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -260,10 +263,10 @@
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>Chords</trackName>
+      <trackName>Voice</trackName>
       <Instrument>
-        <longName>Chords</longName>
-        <shortName>Co.</shortName>
+        <longName>Voice</longName>
+        <shortName>Vo.</shortName>
         <trackName>Voice</trackName>
         <minPitchP>38</minPitchP>
         <maxPitchP>84</maxPitchP>
@@ -3530,7 +3533,7 @@
       <Measure>
         <voice>
           <KeySig>
-            <accidental>1</accidental>
+            <accidental>3</accidental>
             </KeySig>
           <TimeSig>
             <sigN>3</sigN>
@@ -3781,14 +3784,14 @@
             <duration>3/4</duration>
             </Rest>
           <location>
-            <fractions>-1/4</fractions>
+            <fractions>-1/2</fractions>
             </location>
           <Harmony>
             <root>17</root>
             <name>m</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <BarLine>
             <subtype>double</subtype>

@@ -314,14 +314,18 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           </Channel>
         <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="0"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -831,7 +835,7 @@ kao dodatak na Ignaz Franz (1719-1790)
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>dije</text>
+              <text>dje</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1085,7 +1089,7 @@ kao dodatak na Ignaz Franz (1719-1790)
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>ća</text>
+              <text>ča</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1156,7 +1160,7 @@ kao dodatak na Ignaz Franz (1719-1790)
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text>s'an</text>
+              <text>s an</text>
               </Lyrics>
             <Lyrics>
               <no>2</no>
@@ -1179,17 +1183,17 @@ kao dodatak na Ignaz Franz (1719-1790)
               <text>vi</text>
               </Lyrics>
             <Lyrics>
-              <no>1</no>
-              <syllabic>middle</syllabic>
-              <text>đe</text>
-              </Lyrics>
-            <Lyrics>
               <no>2</no>
               <text>mu</text>
               </Lyrics>
             <Lyrics>
               <no>3</no>
               <text>taj</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>đe</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -1506,7 +1510,7 @@ kao dodatak na Ignaz Franz (1719-1790)
             <Lyrics>
               <no>3</no>
               <syllabic>begin</syllabic>
-              <text>s'na</text>
+              <text>s na</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>

@@ -10,6 +10,9 @@
       <pageWidth>8.27</pageWidth>
       <pageHeight>11.69</pageHeight>
       <pagePrintableWidth>7.4826</pagePrintableWidth>
+      <useStandardNoteNames>0</useStandardNoteNames>
+      <useGermanNoteNames>1</useGermanNoteNames>
+      <lowerCaseBassNotes>1</lowerCaseBassNotes>
       <Spatium>1.76389</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -143,7 +146,6 @@
           <controller ctrl="32" value="0"/>
           <program value="0"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -198,7 +200,6 @@
           <controller ctrl="32" value="0"/>
           <program value="0"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -253,7 +254,6 @@
           <controller ctrl="32" value="0"/>
           <program value="0"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -263,10 +263,10 @@
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>Voice</trackName>
+      <trackName>Chords</trackName>
       <Instrument>
-        <longName>Voice</longName>
-        <shortName>Vo.</shortName>
+        <longName>Chords</longName>
+        <shortName>Co.</shortName>
         <trackName>Voice</trackName>
         <minPitchP>38</minPitchP>
         <maxPitchP>84</maxPitchP>
@@ -331,6 +331,20 @@
         <Text>
           <style>Title</style>
           <text>1</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>
+GROSSER GOTT
+iz
+Katholisches Gesangbuch, Vienna, c. 1774
+</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>riječi iz Katholisches Gesangbuch, Vienna, c. 1774
+kao dodatak na Ignaz Franz (1719-1790)
+</text>
           </Text>
         </VBox>
       <Measure>
@@ -3533,7 +3547,7 @@
       <Measure>
         <voice>
           <KeySig>
-            <accidental>3</accidental>
+            <accidental>1</accidental>
             </KeySig>
           <TimeSig>
             <sigN>3</sigN>
@@ -3784,14 +3798,14 @@
             <duration>3/4</duration>
             </Rest>
           <location>
-            <fractions>-1/2</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <root>17</root>
             <name>m</name>
             </Harmony>
           <location>
-            <fractions>1/2</fractions>
+            <fractions>1/4</fractions>
             </location>
           <BarLine>
             <subtype>double</subtype>

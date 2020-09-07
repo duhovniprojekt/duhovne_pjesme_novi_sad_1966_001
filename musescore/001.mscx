@@ -10,6 +10,9 @@
       <pageWidth>8.27</pageWidth>
       <pageHeight>11.69</pageHeight>
       <pagePrintableWidth>7.4826</pagePrintableWidth>
+      <useStandardNoteNames>0</useStandardNoteNames>
+      <useGermanNoteNames>1</useGermanNoteNames>
+      <lowerCaseBassNotes>1</lowerCaseBassNotes>
       <Spatium>1.76389</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -331,11 +334,17 @@
           </Text>
         <Text>
           <style>Composer</style>
-          <text> 	Emily R. Brink (1986)</text>
+          <text>
+GROSSER GOTT
+iz
+Katholisches Gesangbuch, Vienna, c. 1774
+</text>
           </Text>
         <Text>
           <style>Lyricist</style>
-          <text> 	Ignace Franz (c. 1774)</text>
+          <text>riječi iz Katholisches Gesangbuch, Vienna, c. 1774
+kao dodatak na Ignaz Franz (1719-1790)
+</text>
           </Text>
         </VBox>
       <Measure>

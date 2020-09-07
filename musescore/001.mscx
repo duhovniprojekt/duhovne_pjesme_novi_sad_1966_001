@@ -337,18 +337,13 @@
           <text>1</text>
           </Text>
         <Text>
-          <style>Composer</style>
-          <text>
-GROSSER GOTT
-iz
-Katholisches Gesangbuch, Vienna, c. 1774
+          <style>Subtitle</style>
+          <text>GROSSER GOTT, Katholisches Gesangbuch, Vienna, c. 1774
 </text>
           </Text>
         <Text>
           <style>Lyricist</style>
-          <text>riječi iz Katholisches Gesangbuch, Vienna, c. 1774
-kao dodatak na Ignaz Franz (1719-1790)
-</text>
+          <text>Ignaz Franz, c. 1774</text>
           </Text>
         </VBox>
       <Measure>

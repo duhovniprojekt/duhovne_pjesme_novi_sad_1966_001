@@ -2,8 +2,6 @@
 <museScore version="3.01">
   <programVersion>3.5.0</programVersion>
   <programRevision>43c5553</programRevision>
-  <programVersion>3.3.4</programVersion>
-  <programRevision>7684abe</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -330,6 +328,14 @@
         <Text>
           <style>Title</style>
           <text>1</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text> 	Emily R. Brink (1986)</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text> 	Ignace Franz (c. 1774)</text>
           </Text>
         </VBox>
       <Measure>
@@ -816,7 +822,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>dje</text>
+              <text>dije</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1070,7 +1076,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>ča</text>
+              <text>ća</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
